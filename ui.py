@@ -3,7 +3,7 @@ from youtubeagent import create_youtube_agent
 
 st.set_page_config(page_title="Vara-YoutubevideoAnalyzer",page_icon="🎥",)
 
-st.markdown('<h1 style="white-space: nowrap; font-size: 2.5rem;color: #FF0000">🎥 Youtube Video Shorts Analyzer</h1>', unsafe_allow_html=True)
+st.markdown('<h1 style="white-space: nowrap; font-size: 2.5rem;color: #FF0000">🎥 VARA - Youtube Video Shorts Analyzer</h1>', unsafe_allow_html=True)
 
 
 
